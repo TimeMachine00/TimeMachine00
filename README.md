@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TimeMachine00 (Hussainsha Syed)
-- 👀 I’m interested in ...Python, Machine Learning, Physics, and Mathematics
+- 👀 I’m interested in ...Quantum computing, Python, Machine Learning, Physics, and Mathematics
 - 🌱 I’m currently learning ... Data Science and String Theory
-- 💞️ I’m looking to collaborate on ... Machine Learning
+- 💞️ I’m looking to collaborate on ... Machine Learning and Quantum computing
 - 📫 How to reach me ...ai.py.syed@gmail.com, hussainatphysics@gmail.com
 
 <!---
